@@ -1,0 +1,28 @@
+/*
+ *Name: Selena Chen
+ *UnityID: schen53
+ *Date: 9/30/2018
+ *Assignment: Webpages Indepenent Assignment
+ *Description: Webpages independent assignment, styling webpage about me
+ */
+ 
+p {
+    font-family: Times;
+}
+
+body {
+    background-color: #FF0000;
+}
+
+.table-border {
+    border-width: 5px;
+    border-style: solid;
+}
+
+#img-resize {
+    max-width: 200px;
+    max-height: 250px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: #00FF00;
+}
